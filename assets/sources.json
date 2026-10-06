@@ -1,0 +1,344 @@
+{
+  "note": "本清单记录随包素材的来源与 sha256，由 scripts/download_assets.cjs 生成。",
+  "files": [
+    {
+      "file": "assets/world_bc1000.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc1000.geojson",
+      "sha256": "ace64cae988ab72ab5536b76e052a9564eed81390404bccbc5e6a48ac646d7fc",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_bc500.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc500.geojson",
+      "sha256": "f72bc06ca45a9f680f20ef6007aaccd13a929cd1b632bd0fb41f161cb51ba3f6",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_bc300.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc300.geojson",
+      "sha256": "d181645f7963e893fc5502a496c14927316939a2a38cba7722a38b75f80cf633",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_bc200.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc200.geojson",
+      "sha256": "e192a3330a7e51358b61a6bfffaf6ff3e9ebf4eb96b532a23632316e86066a80",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_bc100.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_bc100.geojson",
+      "sha256": "80ce07508ef86b4c4943193d7562578dc1150976bd0eb07581c620acf3044874",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_200.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_200.geojson",
+      "sha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_400.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_400.geojson",
+      "sha256": "3a3cf57e1d117e81b49b9344af49b73fec0674aa14e7d1d1f1d345d08f9ce1f7",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_600.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_600.geojson",
+      "sha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_700.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_700.geojson",
+      "sha256": "bb66ebee15e57f5d43b0ca524dd9a230651bb821e7e002882b1981a25fd42a38",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_800.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_800.geojson",
+      "sha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_1000.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1000.geojson",
+      "sha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_1200.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1200.geojson",
+      "sha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_1279.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1279.geojson",
+      "sha256": "839f48f61d984dd58f70f312dfe626c3988d4d4822e78d68a123fd0784e852e2",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_1600.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1600.geojson",
+      "sha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_1700.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1700.geojson",
+      "sha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_1800.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1800.geojson",
+      "sha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/world_1900.geojson",
+      "source": "https://github.com/aourednik/historical-basemaps/blob/master/geojson/world_1900.geojson",
+      "sha256": "9c9221c851eaba4948e11b2a0b078e89239231f8c74df0dc321750ae234f10b5",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/land50.geojson",
+      "source": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_land.geojson",
+      "sha256": "e874b27a51d146452be360cafb3cc50c86001074a67d534113e6534682f9826b",
+      "license": "Public domain (Natural Earth)"
+    },
+    {
+      "file": "assets/rivers.geojson",
+      "source": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_50m_rivers_lake_centerlines.geojson",
+      "sha256": "f286e0ce978fde999ca2d7a78c764be08542e19b63cded52b05c12d5173ccc51",
+      "license": "Public domain (Natural Earth)"
+    },
+    {
+      "file": "assets/MaShanZheng-Regular.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/mashanzheng",
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+      "license": "SIL Open Font License 1.1",
+      "note": "上游修订会更新字体文件；随包副本与上游当前版本未必一致，OFL 允许再分发"
+    },
+    {
+      "file": "assets/LICENSE-historical-basemaps.txt",
+      "source": "https://github.com/aourednik/historical-basemaps",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/README-historical-basemaps.md",
+      "source": "https://github.com/aourednik/historical-basemaps",
+      "sha256": "cbd9b99a5969785c532b901293ad77391223ea3223e1eb042e78a6704f01f76e",
+      "license": "GPL-3.0"
+    },
+    {
+      "file": "assets/OFL-MaShanZheng.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/mashanzheng",
+      "sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+      "license": "SIL Open Font License 1.1"
+    }
+  ],
+  "terrain": {
+    "source": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png",
+    "license": "AWS Open Data / Terrarium（公共高程瓦片）",
+    "zoom": 5,
+    "tiles": 48,
+    "files": [
+      {
+        "file": "assets/terrain/5-21-10.png",
+        "sha256": "17a3f9efed83ab6d69e44722d8c44c23bef686ca039f142be986a73618f2e996"
+      },
+      {
+        "file": "assets/terrain/5-21-11.png",
+        "sha256": "7bba5df7f79529139ae19547ef1b0dac3a65f9a287e380f5ca4df27fd8093ab3"
+      },
+      {
+        "file": "assets/terrain/5-21-12.png",
+        "sha256": "564cc7875cab0f8d27f4573d0c135c1302a2384d6d2ef22bea75c4cd14fcf758"
+      },
+      {
+        "file": "assets/terrain/5-21-13.png",
+        "sha256": "f92015155e4c0dd68d2437db5697d10e03157845257a060623b70d900cf560ea"
+      },
+      {
+        "file": "assets/terrain/5-21-14.png",
+        "sha256": "d7c7debb8a7843d3d7afdba41c7c12cb47705c842971fd2b93701152fa46c3f4"
+      },
+      {
+        "file": "assets/terrain/5-21-9.png",
+        "sha256": "7b8f33e455e58003cea2adffec3cd59c9e257d45ae6e675a3c5dc7aaf6763469"
+      },
+      {
+        "file": "assets/terrain/5-22-10.png",
+        "sha256": "689cede02793042751e66efa4b3cee7266bde3681f85eb8f79f4c9c223b72a71"
+      },
+      {
+        "file": "assets/terrain/5-22-11.png",
+        "sha256": "01c11d23fd57f4176b961f95dde7ba4566f6fd7074219e3cf107c863e9600bf3"
+      },
+      {
+        "file": "assets/terrain/5-22-12.png",
+        "sha256": "79eb6759025688cd1a086ae4df24ea8ad91cf87760b368c92016c8f265183fa7"
+      },
+      {
+        "file": "assets/terrain/5-22-13.png",
+        "sha256": "85f5857dd976df9e06d0f705b70a2b32038d0f606b58fd9c84feabdbe3bec1f7"
+      },
+      {
+        "file": "assets/terrain/5-22-14.png",
+        "sha256": "95b760c759e924fc4a2ea0dbfd723d4e2291cc6d7a87fb53dea8efed8ef196a3"
+      },
+      {
+        "file": "assets/terrain/5-22-9.png",
+        "sha256": "39d93caa8111960aab55685a4ca80ae198cabea316422712f553f9c68b63481a"
+      },
+      {
+        "file": "assets/terrain/5-23-10.png",
+        "sha256": "eb54f7311d4cc835bb684183ccae48a4d80263e130a1d6d8d2ea91615fc5004c"
+      },
+      {
+        "file": "assets/terrain/5-23-11.png",
+        "sha256": "650ca9a720c5112660f5743b02fc37e8eae309d31f2b92478546cac3de1eb4db"
+      },
+      {
+        "file": "assets/terrain/5-23-12.png",
+        "sha256": "8cd49ad609fc5c9f1cc5781892295211340d479f9647f40df6c7448bc6d92b7a"
+      },
+      {
+        "file": "assets/terrain/5-23-13.png",
+        "sha256": "dd88bab198424b05b7f360b374168732cc72242b301ecc0f2df9224292104d0d"
+      },
+      {
+        "file": "assets/terrain/5-23-14.png",
+        "sha256": "d68465027092449957c99aca8f0857116333c0716350a50ed7b81b6c6b284748"
+      },
+      {
+        "file": "assets/terrain/5-23-9.png",
+        "sha256": "9169b5cfe1a867621ae0c4fa1853f390e70edd8cfa42fb45f8bc652f78ba6bff"
+      },
+      {
+        "file": "assets/terrain/5-24-10.png",
+        "sha256": "acced1f33b5623452c4a354eec61a7890f590222630278b06632d5a274c3c2cd"
+      },
+      {
+        "file": "assets/terrain/5-24-11.png",
+        "sha256": "5fa44681e16dd71e48943741b3af0f40bbaa7b0b68662f1b5e97d27f966739f7"
+      },
+      {
+        "file": "assets/terrain/5-24-12.png",
+        "sha256": "a2b70b2fea7e6ef7b88370afd40a85e65fdc26d700253e59f6feaca6f9a29e4d"
+      },
+      {
+        "file": "assets/terrain/5-24-13.png",
+        "sha256": "767f8d3e14dbc59df3d6a9a5c9badaf0a982d2bb65c74b0fe36bff99a988d0f8"
+      },
+      {
+        "file": "assets/terrain/5-24-14.png",
+        "sha256": "6d7fb3271827ab7ce82b85c7913d946ff44c6d3cc4cdcad5628caa4e2e436348"
+      },
+      {
+        "file": "assets/terrain/5-24-9.png",
+        "sha256": "4a7e105f630a4ba1fbc088d7d073e99353d5a2242b967e3a7eda123e5094d234"
+      },
+      {
+        "file": "assets/terrain/5-25-10.png",
+        "sha256": "5595a67a091f8e13b78ea4e64df644e5b34b434b3e7023e3e51dba39ddbab5c6"
+      },
+      {
+        "file": "assets/terrain/5-25-11.png",
+        "sha256": "829d7b9eb6b782c1a517ea844e8d128073ce62dc06fb4c6269ffcff3d06f8f89"
+      },
+      {
+        "file": "assets/terrain/5-25-12.png",
+        "sha256": "afd031b3bda92f9c8bfd02b5602088e12b32e49ff48d1d65c38c443a289457ae"
+      },
+      {
+        "file": "assets/terrain/5-25-13.png",
+        "sha256": "290a933304a283bbf649af4559afb7994e651a5f2d88e8a8b28482a20e7e836d"
+      },
+      {
+        "file": "assets/terrain/5-25-14.png",
+        "sha256": "3d246f3704137b6c10368523a9d70b7c957696ac811959f779736186e630026f"
+      },
+      {
+        "file": "assets/terrain/5-25-9.png",
+        "sha256": "190e3fe97487f414932e610eed667c3012c481885ee5ea86d3d4bf613c0b31f5"
+      },
+      {
+        "file": "assets/terrain/5-26-10.png",
+        "sha256": "f67ea6531c86b0ab5fa0f8a1a3dafeb130f27a6e16097e9a464c3c06aa40566c"
+      },
+      {
+        "file": "assets/terrain/5-26-11.png",
+        "sha256": "36e9d55522362d9a8899259a0b360ba1f496ffed5b222662f5e11834858f7626"
+      },
+      {
+        "file": "assets/terrain/5-26-12.png",
+        "sha256": "dcc3f4e46759bdc92b109bac132ea10e2d8f20602769ff73026c427fadc75c92"
+      },
+      {
+        "file": "assets/terrain/5-26-13.png",
+        "sha256": "bd230044282ddce7a0a8ffd4405cfee1f7dfbf4656a579486e9f95384214f488"
+      },
+      {
+        "file": "assets/terrain/5-26-14.png",
+        "sha256": "4c1ee6bbefb9b3aa6f386f9edd5bb0f5d949b38c69352b4a2c65a363c7bc1c12"
+      },
+      {
+        "file": "assets/terrain/5-26-9.png",
+        "sha256": "95d39a54e8ab03ab9fd9d226cab66c9f2892cf6a74e85e80b8ea564428335e8f"
+      },
+      {
+        "file": "assets/terrain/5-27-10.png",
+        "sha256": "5a658ba1008025af48c68210dd31d54e17b1637272ff54b13bcf80fd27454c68"
+      },
+      {
+        "file": "assets/terrain/5-27-11.png",
+        "sha256": "15985fdff675a76a38f86ee0c6fca994f411f31e4d1a4d03198beecffeb5eb80"
+      },
+      {
+        "file": "assets/terrain/5-27-12.png",
+        "sha256": "909687d8daaea4772a4fe2aa9509b9fcbd766320a7f04d6dfa26b796c953b119"
+      },
+      {
+        "file": "assets/terrain/5-27-13.png",
+        "sha256": "d3b4d04d3370b540df9bf4b5a9d53745131415790b87063f290d033698bbfa4a"
+      },
+      {
+        "file": "assets/terrain/5-27-14.png",
+        "sha256": "2949f9eb4f12f7bc59bb39a12eb95bb2b79d56dde1864054f88aceaca8025d3e"
+      },
+      {
+        "file": "assets/terrain/5-27-9.png",
+        "sha256": "89864d997bb5f26eb9e55d36079bd7adf11eca41b8aba3a94b80b9f9edd1507b"
+      },
+      {
+        "file": "assets/terrain/5-28-10.png",
+        "sha256": "234113ed2517f927fde8975a15adc9b2c82fadedda61ae2b72bbd88d9a256708"
+      },
+      {
+        "file": "assets/terrain/5-28-11.png",
+        "sha256": "13a07f7763dbed9cc33b664b44c6d3fb3c245ef155e492555bd1eafe4dece632"
+      },
+      {
+        "file": "assets/terrain/5-28-12.png",
+        "sha256": "db628c8e39261081327f7e304e2a6948e64a28dcb225172f04ae2081460878b6"
+      },
+      {
+        "file": "assets/terrain/5-28-13.png",
+        "sha256": "cb9f7ccf66dcfd4c39faca0dbef60bd87920dc4e59ede967a32e04b77af4e571"
+      },
+      {
+        "file": "assets/terrain/5-28-14.png",
+        "sha256": "33a7b94f13b7ebeef7dda9e3058106b8b92055ebf5fc2306af6be60879fc7923"
+      },
+      {
+        "file": "assets/terrain/5-28-9.png",
+        "sha256": "beee16ad5edbff7a9cece3858883e04b59285df2166a454986bf7eaf462f0297"
+      }
+    ]
+  }
+}

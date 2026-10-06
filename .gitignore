@@ -1,0 +1,13 @@
+# 渲染中间产物（可随时重建，见 docs/使用说明.md）
+work/
+__pycache__/
+*.pyc
+
+# 系统与工具目录
+.DS_Store
+.workbuddy/
+
+# 大文件交付物不进仓库：成片与配音音轨体积超过 GitHub 单文件上限，
+# 生成方法见 docs/使用说明.md「重新生成」一节。
+output/*.mp4
+output/*.wav

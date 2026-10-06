@@ -1,0 +1,8 @@
+# 渲染与音频处理依赖（Python >= 3.12；本片在 3.13.12 上渲染）
+numpy==2.5.3
+scipy==1.18.1
+pillow==12.3.0
+imageio-ffmpeg==0.6.0
+
+# 仅在用云端 TTS 重新合成配音时需要（src/cloud_voice.py）
+requests==2.34.2
