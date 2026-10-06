@@ -1,0 +1,21 @@
+# CodeRabbit（AI 代码评审机器人）配置
+# 该机器人在 PR 上自动评审，需在仓库上安装 CodeRabbit GitHub App 后生效。
+# 完整配置项见 https://docs.coderabbit.ai/reference/configuration
+language: zh-CN
+tone_instructions: >-
+  本项目是历史地图纪录片的生成管线。评审时优先关注渲染与音频处理的正确性、
+  脚本间路径耦合、以及对外发布的史实与许可表述是否准确；纯风格建议可略过。
+
+reviews:
+  profile: chill
+  # 素材数据与生成产物不参与评审，也可避免机器人在克隆时拉取这些大文件
+  path_filters:
+    - "!assets/**"
+    - "!output/**"
+  path_instructions:
+    - path: "src/**"
+      instructions: >-
+        渲染脚本改动请重点确认：历史快照与政权名是否真实存在（validate 能否拦住静默丢层）、
+        疆域示意范围与史实描述是否一致、以及改动是否会破坏既有交付格式。
+    - path: "docs/**"
+      instructions: 文档与 README/CREDITS 的事实陈述需与 scripts、assets、src 的实际情况一致。
